@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Pet Pulse",
+  "description": "A comprehensive pet safety app featuring amber alerts, virtual fencing, and integrated tracker tag support to keep your pets safe and connected.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
